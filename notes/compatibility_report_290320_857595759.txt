@@ -1,0 +1,133 @@
+Conversion du script GML : ${project_dir}\scripts\edgefmv_pause\edgefmv_pause.gml
+Description convertie /// @description edgefmv_pause();
+
+Conversion du script GML : ${project_dir}\scripts\edgefmv_skip\edgefmv_skip.gml
+Description convertie /// @description edgefmv_skip();
+
+Conversion du script GML : ${project_dir}\scripts\edgefmv_seek\edgefmv_seek.gml
+Description convertie /// @description edgefmv_seek(time);/// @param time
+
+Conversion du script GML : ${project_dir}\scripts\edgefmv_set_volume\edgefmv_set_volume.gml
+Description convertie /// @description edgefmv_set_volume(volume);/// @param volume
+
+Conversion du script GML : ${project_dir}\scripts\edgefmv_get_time\edgefmv_get_time.gml
+Description convertie /// @description edgefmv_get_time();
+
+Conversion du script GML : ${project_dir}\scripts\edgefmv_draw_progress\edgefmv_draw_progress.gml
+Description convertie /// @description edgefmv_draw_progress(x1, y1, x2, y2, col1, col2, col3, col4, outline);/// @param x1
+/// @param  y1
+/// @param  x2
+/// @param  y2
+/// @param  col1
+/// @param  col2
+/// @param  col3
+/// @param  col4
+/// @param  outline
+
+Conversion du script GML : ${project_dir}\scripts\edgefmv_load\edgefmv_load.gml
+Description convertie /// @description edgefmv_load(fname);/// @param fname
+Chaîne convertie - ligne 32 : "\" -> "\\"
+Chaîne convertie - ligne 33 : "\" -> "\\"
+Chaîne convertie - ligne 36 : "\" -> "\\"
+Chaîne convertie - ligne 36 : "\" -> "\\"
+Chaîne convertie - ligne 48 : "\" -> "\\"
+Chaîne convertie - ligne 52 : "\" -> "\\"
+Chaîne convertie - ligne 85 : "\cache\fmv\" -> "\\cache\\fmv\\"
+Chaîne convertie - ligne 85 : "\" -> "\\"
+Chaîne convertie - ligne 89 : "\cache\fmv\" -> "\\cache\\fmv\\"
+Chaîne convertie - ligne 89 : "\" -> "\\"
+Chaîne convertie - ligne 114 : "\cache\fmv\" -> "\\cache\\fmv\\"
+Chaîne convertie - ligne 114 : "\" -> "\\"
+Chaîne convertie - ligne 119 : "\cache\fmv\" -> "\\cache\\fmv\\"
+Chaîne convertie - ligne 119 : "\" -> "\\"
+Chaîne convertie - ligne 152 : "\" -> "\\"
+Chaîne convertie - ligne 156 : "\" -> "\\"
+
+Conversion du script GML : ${project_dir}\scripts\edgefmv_play\edgefmv_play.gml
+Description convertie /// @description edgefmv_play(framerate, a/v offset, x, y, xscale, yscale, rot, color, alpha, hidemouse, loop);/// @param framerate
+/// @param  a/v offset
+/// @param  x
+/// @param  y
+/// @param  xscale
+/// @param  yscale
+/// @param  rot
+/// @param  color
+/// @param  alpha
+/// @param  hidemouse
+/// @param  loop
+
+Conversion du script GML : ${project_dir}\scripts\edgefmv_unload\edgefmv_unload.gml
+Description convertie /// @description edgefmv_unload(fname);/// @param fname
+Chaîne convertie - ligne 26 : "\" -> "\\"
+Chaîne convertie - ligne 27 : "\" -> "\\"
+Chaîne convertie - ligne 30 : "\" -> "\\"
+Chaîne convertie - ligne 30 : "\" -> "\\"
+Chaîne convertie - ligne 47 : "\" -> "\\"
+Chaîne convertie - ligne 96 : "\cache\fmv\" -> "\\cache\\fmv\\"
+Chaîne convertie - ligne 97 : "\cache\fmv\" -> "\\cache\\fmv\\"
+Chaîne convertie - ligne 109 : "\" -> "\\"
+Chaîne convertie - ligne 111 : "\" -> "\\"
+Chaîne convertie - ligne 115 : "\" -> "\\"
+Chaîne convertie - ligne 175 : "\cache\fmv\" -> "\\cache\\fmv\\"
+Chaîne convertie - ligne 175 : "\" -> "\\"
+Chaîne convertie - ligne 179 : "\" -> "\\"
+Chaîne convertie - ligne 228 : "\cache\fmv\" -> "\\cache\\fmv\\"
+Chaîne convertie - ligne 228 : "\" -> "\\"
+Chaîne convertie - ligne 229 : "\cache\fmv\" -> "\\cache\\fmv\\"
+Chaîne convertie - ligne 229 : "\" -> "\\"
+
+! ! ! La police Orbitron utilise une police (Orbitron-Medium) qui n’est pas installée sur ce système. La police n'a PAS été régénérée
+La texture de police GameMaker Studio 1 a été sauvegardée à ${project_dir}\fonts\Orbitron\Orbitron.gms1.png
+Conversion du script GML : ${project_dir}\objects\obj_fmv\Create_0.gml
+Description convertie /// @description Execute script: edgefmv_load
+Chaîne convertie - ligne 2 : "Demo\thinkboxly-logo.fmv" -> "Demo\\thinkboxly-logo.fmv"
+
+Conversion du script GML : ${project_dir}\objects\obj_fmv\Mouse_53.gml
+Description convertie /// @description Execute Script: edgefmv_pause
+
+Conversion du script GML : ${project_dir}\objects\obj_fmv\Draw_0.gml
+Intégré converti - ligne 9 : view_xview[0] -> __view_get( e__VW.XView, 0 )
+Intégré converti - ligne 9 : view_xview[0] -> __view_get( e__VW.XView, 0 )
+Intégré converti - ligne 14 : view_xview[0] -> __view_get( e__VW.XView, 0 )
+Intégré converti - ligne 15 : view_xview[0] -> __view_get( e__VW.XView, 0 )
+Intégré converti - ligne 18 : view_xview[0] -> __view_get( e__VW.XView, 0 )
+Intégré converti - ligne 18 : view_xview[0] -> __view_get( e__VW.XView, 0 )
+Intégré converti - ligne 19 : view_xview[0] -> __view_get( e__VW.XView, 0 )
+Intégré converti - ligne 19 : view_xview[0] -> __view_get( e__VW.XView, 0 )
+Intégré converti - ligne 9 : view_yview[0] -> __view_get( e__VW.YView, 0 )
+Intégré converti - ligne 9 : view_yview[0] -> __view_get( e__VW.YView, 0 )
+Intégré converti - ligne 14 : view_yview[0] -> __view_get( e__VW.YView, 0 )
+Intégré converti - ligne 15 : view_yview[0] -> __view_get( e__VW.YView, 0 )
+Intégré converti - ligne 18 : view_yview[0] -> __view_get( e__VW.YView, 0 )
+Intégré converti - ligne 18 : view_yview[0] -> __view_get( e__VW.YView, 0 )
+Intégré converti - ligne 19 : view_yview[0] -> __view_get( e__VW.YView, 0 )
+Intégré converti - ligne 19 : view_yview[0] -> __view_get( e__VW.YView, 0 )
+Intégré converti - ligne 9 : view_wview[0] -> __view_get( e__VW.WView, 0 )
+Intégré converti - ligne 14 : view_wview[0] -> __view_get( e__VW.WView, 0 )
+Intégré converti - ligne 15 : view_wview[0] -> __view_get( e__VW.WView, 0 )
+Intégré converti - ligne 18 : view_wview[0] -> __view_get( e__VW.WView, 0 )
+Intégré converti - ligne 19 : view_wview[0] -> __view_get( e__VW.WView, 0 )
+Intégré converti - ligne 9 : view_hview[0] -> __view_get( e__VW.HView, 0 )
+Intégré converti - ligne 14 : view_hview[0] -> __view_get( e__VW.HView, 0 )
+Intégré converti - ligne 15 : view_hview[0] -> __view_get( e__VW.HView, 0 )
+Intégré converti - ligne 18 : view_hview[0] -> __view_get( e__VW.HView, 0 )
+Intégré converti - ligne 18 : view_hview[0] -> __view_get( e__VW.HView, 0 )
+Intégré converti - ligne 19 : view_hview[0] -> __view_get( e__VW.HView, 0 )
+Intégré converti - ligne 19 : view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Conversion du script GML : ${project_dir}\objects\obj_fmv\KeyPress_85.gml
+Description convertie /// @description Execute Script: edgefmv_unload
+
+Conversion du script GML : ${project_dir}\objects\obj_fmv\KeyPress_83.gml
+Description convertie /// @description Execute Script: edgefmv_skip
+
+Conversion du script GML : ${project_dir}\objects\obj_fmv\KeyPress_32.gml
+Description convertie /// @description Execute Script: edgefmv_pause
+
+Ajout du script de compatibilité 'action/action_restart_game.gml'
+Ajout du script de compatibilité 'draw/draw_set_blend_mode.gml'
+Ajout du script de compatibilité 'draw/draw_set_blend_mode_ext.gml'
+Ajout du script de compatibilité 'view/__view_get.gml'
+Ajout du script de compatibilité 'action/__init_action.gml'
+Ajout du script de compatibilité 'view/__init_view.gml'
+Ajout du script de compatibilité '__init_global.gml'

@@ -1,0 +1,5 @@
+Conversion du script GML : ${project_dir}\objects\obj_room\Create_0.gml
+Description convertie /// @description Room init
+
+Conversion du script GML : ${project_dir}\objects\obj_room\Draw_0.gml
+Description convertie /// @description Draw floor to shader

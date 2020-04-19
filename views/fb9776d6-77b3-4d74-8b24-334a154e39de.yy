@@ -1,0 +1,33 @@
+{
+    "id": "fb9776d6-77b3-4d74-8b24-334a154e39de",
+    "modelName": "GMFolder",
+    "mvc": "1.1",
+    "name": "fb9776d6-77b3-4d74-8b24-334a154e39de",
+    "children": [
+        "f916cbdc-7890-4394-8dc1-07b259b17850",
+        "e7fbff8e-ea3c-4370-80de-a9bd70c6599f",
+        "e4a465cd-c9bb-443a-b873-1b5d96214aff",
+        "dc0d37de-e8f3-4333-b9f9-1bc453294bc9",
+        "c48d2223-913f-401f-8368-6444226c8671",
+        "bf29d13e-6e0d-4db1-8380-66addf28f58d",
+        "c190f994-5cab-4aac-bd4d-f4f6bde7d708",
+        "a7360ffe-95b1-4fef-b65e-fc8687e6ea61",
+        "a52b1180-037d-4dba-890b-7563eb9cfce2",
+        "9bab9ff7-3646-4227-8de1-0e9b3d0d6664",
+        "86e603b2-1dd7-4004-a135-7564c29b008e",
+        "82b7e36f-02f0-4cf1-a783-c0bfbbdd1e53",
+        "81dc1497-43e2-418f-9c76-2df159219b5b",
+        "69f0bcdf-d5bd-4946-9bd3-3232c6b20d3e",
+        "5ef971ed-e6ed-4fad-9388-bd0d4ce8aafe",
+        "4c053b83-63fd-44e4-a4b5-fce4da241947",
+        "5dcae632-77ef-4d52-bff1-65cb93258460",
+        "5ee39ac9-2d2c-4287-9fbf-779e2d56ad25",
+        "2308b16b-596e-4862-a1a8-c47bbf29cee2",
+        "2dfe11d1-fa70-496f-b94f-918c97dd180e",
+        "0afb45c6-f1ef-4f72-b338-d6e718579229"
+    ],
+    "filterType": "GMScript",
+    "folderName": "maths",
+    "isDefaultView": false,
+    "localisedFolderName": ""
+}

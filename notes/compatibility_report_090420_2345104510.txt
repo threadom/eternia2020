@@ -1,0 +1,49 @@
+Conversion du script GML : ${project_dir}\objects\obj_controller\Create_0.gml
+Description convertie /// @description Controler Init
+
+Conversion du script GML : ${project_dir}\objects\obj_controller\KeyPress_32.gml
+Description convertie /// @description Toggle debug
+
+Conversion du script GML : ${project_dir}\objects\obj_controller\KeyPress_27.gml
+Description convertie /// @description Game end
+
+Conversion du script GML : ${project_dir}\objects\obj_room\Create_0.gml
+Description convertie /// @description Room init
+
+Conversion du script GML : ${project_dir}\objects\obj_room\Draw_0.gml
+Description convertie /// @description Draw floor to shader
+
+Conversion du script GML : ${project_dir}\objects\obj_teapot\Create_0.gml
+Description convertie /// @description Load Teapot model
+
+Conversion du script GML : ${project_dir}\objects\obj_teapot\Draw_0.gml
+ERREUR : C:\Users\Eric Guillemot\Documents\GameMakerStudio2\Eternia2020\Eternia2020\objects\obj_teapot\Draw_0.gml - 10 : nombre d'arguments attendus 0, 7 obtenus
+Trop d'erreurs - GML non traité : ${project_dir}\objects\obj_teapot\Draw_0.gml
+
+Conversion du script GML : ${project_dir}\objects\obj_block\Create_0.gml
+Description convertie /// @description Block init
+
+Conversion du script GML : ${project_dir}\objects\obj_block\Draw_0.gml
+Description convertie /// @description Draw block to shader
+
+Conversion du script GML : ${project_dir}\objects\obj_wall\Draw_0.gml
+Description convertie /// @description Draw wall to shader
+
+Ajout du script de compatibilité 'd3d/d3d_draw_block.gml'
+Ajout du script de compatibilité 'd3d/d3d_draw_floor.gml'
+Ajout du script de compatibilité 'd3d/d3d_draw_wall.gml'
+Ajout du script de compatibilité 'd3d/d3d_primitive_begin_texture.gml'
+Ajout du script de compatibilité 'd3d/d3d_primitive_end.gml'
+Ajout du script de compatibilité 'd3d/d3d_set_culling.gml'
+Ajout du script de compatibilité 'd3d/d3d_set_hidden.gml'
+Ajout du script de compatibilité 'd3d/d3d_start.gml'
+Ajout du script de compatibilité 'd3d/d3d_transform_add_rotation_x.gml'
+Ajout du script de compatibilité 'd3d/d3d_transform_add_rotation_y.gml'
+Ajout du script de compatibilité 'd3d/d3d_transform_add_rotation_z.gml'
+Ajout du script de compatibilité 'd3d/d3d_transform_add_translation.gml'
+Ajout du script de compatibilité 'd3d/d3d_transform_set_identity.gml'
+Ajout du script de compatibilité 'd3d/d3d_vertex_normal_texture.gml'
+Ajout du script de compatibilité 'instance/instance_create.gml'
+Ajout du script de compatibilité 'object/object_get_depth.gml'
+Ajout du script de compatibilité 'texture/texture_set_repeat.gml'
+Ajout du script de compatibilité '__global_object_depths.gml'

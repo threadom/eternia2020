@@ -1,0 +1,1 @@
+debug("Destroy obj_nextroom_timer");

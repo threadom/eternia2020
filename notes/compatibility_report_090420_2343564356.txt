@@ -1,0 +1,36 @@
+Conversion du script GML : ${project_dir}\scripts\scr_d3d_model_draw\scr_d3d_model_draw.gml
+Description convertie /// @description scr_d3d_model_draw(model_index,x,y,z,texture_id,colour,alpha);/// @param model_index
+/// @param x
+/// @param y
+/// @param z
+/// @param texture_id
+/// @param colour
+/// @param alpha
+
+Conversion du script GML : ${project_dir}\scripts\scr_load_textures\scr_load_textures.gml
+Description convertie /// @description scr_load_textures();
+
+Ajout du script de compatibilité 'background/background_get_texture.gml'
+Ajout du script de compatibilité 'd3d/d3d_model_create.gml'
+Ajout du script de compatibilité 'd3d/d3d_model_draw.gml'
+Ajout du script de compatibilité 'd3d/d3d_model_load.gml'
+Ajout du script de compatibilité 'd3d/d3d_model_primitive_begin.gml'
+Ajout du script de compatibilité 'd3d/d3d_model_primitive_end.gml'
+Ajout du script de compatibilité 'd3d/d3d_model_vertex.gml'
+Ajout du script de compatibilité 'd3d/d3d_model_vertex_color.gml'
+Ajout du script de compatibilité 'd3d/d3d_model_vertex_normal.gml'
+Ajout du script de compatibilité 'd3d/d3d_model_vertex_normal_color.gml'
+Ajout du script de compatibilité 'd3d/d3d_model_vertex_normal_texture.gml'
+Ajout du script de compatibilité 'd3d/d3d_model_vertex_normal_texture_color.gml'
+Ajout du script de compatibilité 'd3d/d3d_model_vertex_texture.gml'
+Ajout du script de compatibilité 'd3d/d3d_model_vertex_texture_color.gml'
+Ajout du script de compatibilité 'd3d/d3d_model_wall.gml'
+Ajout du script de compatibilité 'd3d/__d3d_model_add_vertex.gml'
+Ajout du script de compatibilité 'background/__init_background.gml'
+Ajout du script de compatibilité 'd3d/__init_d3d.gml'
+Ajout du script de compatibilité 'd3d/d3d_model_block.gml'
+Ajout du script de compatibilité 'd3d/d3d_model_clear.gml'
+Ajout du script de compatibilité 'd3d/d3d_model_cone.gml'
+Ajout du script de compatibilité 'd3d/d3d_model_cylinder.gml'
+Ajout du script de compatibilité 'd3d/d3d_model_ellipsoid.gml'
+Ajout du script de compatibilité 'd3d/d3d_model_floor.gml'

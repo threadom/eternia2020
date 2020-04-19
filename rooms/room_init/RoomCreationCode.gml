@@ -1,0 +1,1 @@
+global.skip_splash = true;
